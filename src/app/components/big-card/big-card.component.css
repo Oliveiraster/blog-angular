@@ -1,0 +1,19 @@
+.container__bigCard{
+    width: 400px;
+    height: 500px;
+    margin: 0px 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.bigCard__title h1{
+    margin: 15px 0;
+    font-size: 20px;
+}
+
+.bigCard__description a {
+    color: gray;
+}
